@@ -1,4 +1,4 @@
-from ntn import app as application
+from serve import app as application
 
 if __name__ == "__main__":
 
