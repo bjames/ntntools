@@ -4,5 +4,5 @@ Flask-SQLAlchemy
 requests
 sqlalchemy
 python-whois
-ip-whois
+ipwhois
 numpy
