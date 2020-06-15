@@ -1,0 +1,8 @@
+dnspython
+Flask
+Flask-SQLAlchemy
+requests
+sqlalchemy
+python-whois
+ip-whois
+numpy
